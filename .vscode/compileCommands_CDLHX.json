@@ -1,0 +1,58 @@
+[
+	{
+		"file": "D:\\Unreal Projects\\CDLHX\\Source\\CDLHX\\CDLHX.Build.cs",
+		"arguments": [
+			"D:\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\CDLHX\\.vscode\\compileCommands_CDLHX\\CDLHX.253.rsp"
+		],
+		"directory": "D:\\Software\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\CDLHX\\Source\\CDLHX\\CDLHX.cpp",
+		"arguments": [
+			"D:\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\CDLHX\\.vscode\\compileCommands_CDLHX\\CDLHX.253.rsp"
+		],
+		"directory": "D:\\Software\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\CDLHX\\Source\\CDLHX\\CDLHX.h",
+		"arguments": [
+			"D:\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\CDLHX\\.vscode\\compileCommands_CDLHX\\CDLHX.253.rsp"
+		],
+		"directory": "D:\\Software\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\CDLHX\\Source\\CDLHX\\CDLHXCharacter.cpp",
+		"arguments": [
+			"D:\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\CDLHX\\.vscode\\compileCommands_CDLHX\\CDLHX.253.rsp"
+		],
+		"directory": "D:\\Software\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\CDLHX\\Source\\CDLHX\\CDLHXCharacter.h",
+		"arguments": [
+			"D:\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\CDLHX\\.vscode\\compileCommands_CDLHX\\CDLHX.253.rsp"
+		],
+		"directory": "D:\\Software\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\CDLHX\\Source\\CDLHX\\CDLHXGameMode.cpp",
+		"arguments": [
+			"D:\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\CDLHX\\.vscode\\compileCommands_CDLHX\\CDLHX.253.rsp"
+		],
+		"directory": "D:\\Software\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\CDLHX\\Source\\CDLHX\\CDLHXGameMode.h",
+		"arguments": [
+			"D:\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\CDLHX\\.vscode\\compileCommands_CDLHX\\CDLHX.253.rsp"
+		],
+		"directory": "D:\\Software\\UE_5.1\\Engine\\Source"
+	}
+]
